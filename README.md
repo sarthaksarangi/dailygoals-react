@@ -1,4 +1,4 @@
-# LINK: https://dailygoals-react.netlify.app/
+## Link: https://dailygoals-react.netlify.app/
 
 # Getting Started with Create React App
 
