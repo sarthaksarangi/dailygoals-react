@@ -1,13 +1,14 @@
-
-import './App.css';
-
-function App() {
+import React from 'react'
+import Header from './Components/Header'
+import Home from './Components/Home'
+import "./App.css"
+const App = () => {
   return (
-    <div className="App">
-      
-     
+    <div>
+      <Header />
+      <Home/>
     </div>
-  );
+  )
 }
 
-export default App;
+export default App
