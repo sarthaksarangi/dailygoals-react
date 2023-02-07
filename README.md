@@ -1,4 +1,4 @@
-## Live Website : dailygoals-react.netlify.app
+#dailygoals-react.netlify.app
 
 # Getting Started with Create React App
 
